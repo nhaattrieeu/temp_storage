@@ -1,0 +1,29 @@
+[
+  {
+    "id": "01",
+    "name": "Connie",
+    "gender": "male",
+    "favorited": "true",
+    "distance": "1.2KM",
+    "location": "Quan 12",
+    "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/image3.png"
+  },
+  {
+    "id": "02",
+    "name": "Kathryn",
+    "gender": "female",
+    "favorited": "false",
+    "distance": "1.2KM",
+    "location": "Quan 12",
+    "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/image1.png"
+  },
+  {
+    "id": "03",
+    "name": "Lily",
+    "gender": "female",
+    "favorited": "true",
+    "distance": "1.2KM",
+    "location": "Quan 12",
+    "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/image2.png"
+  }
+]
