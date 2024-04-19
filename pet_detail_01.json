@@ -17,7 +17,7 @@
     "name": "Nhat Trieu",
     "location": "Quan 12",
     "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/avatar_01.jpg",
-    "latitude": 1,
-    "longitude": 1
+    "latitude": 1.0,
+    "longitude": 1.0
   }
 }
