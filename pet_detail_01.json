@@ -4,7 +4,7 @@
   "gender": "male",
   "age": 2,
   "size": "m",
-  "favorited": "true",
+  "favorited": true,
   "distance": "1.2KM",
   "location": "Quan 12",
   "description": "Pellentesque mattis interdum blandit ante nunc diam aenean. Diam maecenas volutpat tortor auctor mauris ante tellus. Porta fringilla turpis facilisis et at nulla fermentum lacus. Nunc nibh aliquet fringilla leo. Vitae euismod suspendisse tempus lectus et id consectetur in dignissim.",
