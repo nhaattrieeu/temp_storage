@@ -104,13 +104,7 @@
     "num_of_comment": 564,
     "num_of_repost": 213,
     "created_at": 1714188241,
-    "media": [
-      {
-        "id": "0",
-        "type": "image",
-        "path": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/image1.jpg"
-      }
-    ],
+    "media": [],
     "author": {
       "id": "0",
       "user_name": "nhaattrieeu",
