@@ -5,7 +5,8 @@
     "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
     "author": {
       "id": "0",
-      "full_name": "BBC News"
+      "full_name": "BBC News",
+      "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
     },
     "created_at": "1715407698"
   },
@@ -16,7 +17,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -26,7 +28,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -36,7 +39,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -46,7 +50,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -56,7 +61,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -66,7 +72,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -76,7 +83,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -86,7 +94,8 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     },
@@ -96,7 +105,19 @@
       "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
       "author": {
         "id": "0",
-        "full_name": "BBC News"
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
+      },
+      "created_at": "1715407698"
+    },
+    {
+      "id": "0",
+      "title": "Ukraine's President Zelensky to BBC: Blood money being paid for Russian oil",
+      "image": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/news_image.png",
+      "author": {
+        "id": "0",
+        "full_name": "BBC News",
+        "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
       "created_at": "1715407698"
     }
