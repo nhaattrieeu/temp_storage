@@ -9,7 +9,7 @@
       "full_name": "BBC News",
       "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
     },
-    "created_at": "1715407698"
+    "created_at": 1715407698
   },
   "latest": [
     {
@@ -22,7 +22,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -34,7 +34,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -46,7 +46,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -58,7 +58,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -70,7 +70,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -82,7 +82,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -94,7 +94,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -106,7 +106,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -118,7 +118,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     },
     {
       "id": "0",
@@ -130,7 +130,7 @@
         "full_name": "BBC News",
         "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png"
       },
-      "created_at": "1715407698"
+      "created_at": 1715407698
     }
   ]
 }
