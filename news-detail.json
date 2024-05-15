@@ -8,8 +8,10 @@
     "username": "nhattrieu",
     "full_name": "BBC News",
     "avatar": "https://raw.githubusercontent.com/nhaattrieeu/temp_storage/main/bbc.png",
-    "following": false
+    "follow": false
   },
+  "love": false,
+  "bookmark": false,
   "num_of_love": 165,
   "num_of_comment": 65,
   "created_at": 1715407698
